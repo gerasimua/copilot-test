@@ -1,0 +1,1 @@
+{\n  "name": "betting-dapp",\n  "version": "1.0.0",\n  "description": "A betting decentralized application.",\n  "scripts": {\n    "test": "hardhat test",\n    "deploy": "hardhat run scripts/deploy.ts"\n  },\n  "dependencies": {\n    "@nomiclabs/hardhat-ethers": "^2.0.0",\n    "ethers": "^5.0.0"\n  },\n  "devDependencies": {\n    "hardhat": "^2.0.0"\n  }\n}
